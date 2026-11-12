@@ -29,8 +29,8 @@
     </td>
     <!-- RIGHT MAIN CONTENT (Welcome, Nav, Bio, Microblog, Logs/To-Do) -->
     <td width="68%" valign="top">
-      <p><b>welcome to</b></p>
-      <h2><i>my-github-profile</i></h2>
+      <p><b>HAUNTAHOLICS</b></p>
+      <h2><i>REAL-HAUNTED-MOUND</i></h2>
       <sub><b>last update :</b> november 12 2026</sub>
       <hr />
       <p>
