@@ -50,7 +50,6 @@
             <p><b>update log</b></p>
             <p>
               ➔ <b>11.12.2026</b>  readme layout<br />
-              ➔ <b>11.05.2026</b> started new repo
             </p>
           </td>
           <td width="50%" valign="top">
