@@ -5,7 +5,7 @@
       <p><b>pfp</b></p>
       <div align="center">
         <!-- Replace the src URL below with the link to your cameo image -->
-        <img src="https://cdn.phototourl.com/member/2026-11-12-519b8b45-b2dc-47d0-8c49-33fa30b0c205.png" alt="Profile Picture" width="180" />
+        <img src="https://64.media.tumblr.com/4bd2e090e0850f025c3906860d61e4c0/fce8dc9306d7aed6-b2/s498x280/497a8d879bcc0d32c145f2a8f59c259dad25a0ef.gif" alt="Profile Picture" width="180" />
       </div>
       <hr />
       <p><b>about me</b></p>
