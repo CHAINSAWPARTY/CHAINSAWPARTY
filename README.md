@@ -10,10 +10,10 @@
       <hr />
       <p><b>about me</b></p>
       <p>
-        KING OF THE UNDERWORLD
+       ひひひKING OF THE UNDERWORLD𖣂
       </p>
       <p>
-        I am truey, we're a furry, oc and yumeshipper (of too much characters)
+        ひひひI am truey, we're a furry, oc and yumeshipper (of too much characters)
       </p>
       <hr />
       <p><b>contact</b></p>
