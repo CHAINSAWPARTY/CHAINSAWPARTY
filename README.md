@@ -4,7 +4,6 @@
     <td width="28%" valign="top">
       <p><b>pfp</b></p>
       <div align="center">
-        <!-- Replace the src URL below with the link to your cameo image -->
         <img src="https://64.media.tumblr.com/6a0a72bc1fa3b354361dc56bb04c4b9c/aba6f5db535fce55-23/s500x750/d89274f5cf05e0ac62a4f821e48af53f9fc48415.gifv" alt="Profile Picture" width="180" />
       </div>
       <hr />
@@ -13,7 +12,7 @@
        ひひひKING OF THE UNDERWORLD𖣂
       </p>
       <p>
-        ひひひI am truey, we're a furry, oc and yumeshipper (of too much characters)
+        ひひひI am truey, we're a furry, oc and yumeshipper (of too much characters)<img src="https://64.media.tumblr.com/1e12edb1c5446857113d7df919689c41/e83b385d289d5a71-f8/s250x400/3418ff884e6a4b8ffeba6fe6108ceeb65bdcda9f.gifv" alt="𖣂ひ" width="180" />
       </p>
       <hr />
       <p><b>contact</b></p>
