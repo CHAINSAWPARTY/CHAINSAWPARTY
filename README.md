@@ -28,8 +28,8 @@
     </td>
     <!-- RIGHT MAIN CONTENT (Welcome, Nav, Bio, Microblog, Logs/To-Do) -->
     <td width="68%" valign="top">
-      <p><b>HAUNTAHOLICS</b></p>
-      <h2><i>REAL-HAUNTED-MOUND</i></h2>
+      <p><b>HAUNTAHOLICS</b></p><img src="https://64.media.tumblr.com/9eeddce98b7a9bfeef7d440e3b603682/72bd6c13eed7ce7c-4c/s250x400/6f9c4880e30c4557af54bbe10c8c230934663d5f.gifv" alt="blinkie by englulfmyskull on tumblr" width="180" /><img src="https://64.media.tumblr.com/da681f65fc59c95cd4985778a14eb203/72bd6c13eed7ce7c-c8/s250x400/188e9547bc9d2928ac8732d5818e3fc66756f83e.gifv" alt="blinkie by englulfmyskull on tumblr" width="180" />
+      <h2><i>REAL-HAUNTED-MOUND</i></h2><img src="https://64.media.tumblr.com/951b61bab6ee0774195bd6cce6b2c391/f64a6a93e0ea25a8-7f/s500x750/5bab1af1b44a6f4d730badf132bc8a8540768e2c.gifv" alt="Profile Picture" width="180" />
       <sub><b>last update :</b> november 12 2026</sub>
       <hr />
       <p>
